@@ -7,5 +7,6 @@
 *.dylib
 *.so
 *.dylib
+*.txt
 main
 .vscode
